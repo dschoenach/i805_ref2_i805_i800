@@ -17,8 +17,8 @@ t[4] = ['Mslp','U10m','Max Wind Gust','Wind direction','T2m','T2m, height corr.'
 v[5] = [0]
 v[5] = v[5].reverse()
 t[5] = v[5]
-v[6] = ['lydn-F','lydn-T','low-p']
-t[6] = ['lydn-F','lydn-T','low-p']
+v[6] = ['lydnF','lydnT','lowp']
+t[6] = ['lydnF','lydnT','lowp']
 v[7] = ['ALL'] ;
 t[7] = v[7] ;
 

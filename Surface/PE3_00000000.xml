@@ -1,0 +1,5584 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20210131-20210301</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.203921571     </MEAN_OBS>
+ <STDV_OBS>  0.467356324     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.212330207     </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>  0.394461036     </BIAS>
+ <RMSE>  0.550875068     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.394957483     </BIAS>
+ <RMSE>  0.551199079     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   18795.2090     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.400148541     </BIAS>
+ <RMSE>  0.550640643     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.89610380E-02 </MEAN_OBS>
+ <STDV_OBS>  0.191097766     </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>  0.146634579     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.209112391     </BIAS>
+ <RMSE>  0.262105316     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.255974293     </BIAS>
+ <RMSE>   8.45189020E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   22187.3184     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.189377233     </BIAS>
+ <RMSE>  0.172809020     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.93548426E-02 </MEAN_OBS>
+ <STDV_OBS>   4.42977399E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   3.70056815E-02 </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>   4.99523841E-02 </BIAS>
+ <RMSE>  -3.06045935E-02 </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.95491661E-02 </BIAS>
+ <RMSE>   7.97685161E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   23583.3750     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.78121655E-02 </BIAS>
+ <RMSE>   4.59066480E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.35294104E-02 </MEAN_OBS>
+ <STDV_OBS>   1.48934852E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.29041476E-02 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   4.67474572E-02 </BIAS>
+ <RMSE> -0.209397256     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.67783473E-02 </BIAS>
+ <RMSE> -0.228471547     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20929.1973     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.74965647E-02 </BIAS>
+ <RMSE> -0.188478440     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.16279079E-02 </MEAN_OBS>
+ <STDV_OBS>   2.71810368E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   1.70618072E-02 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   4.18921858E-02 </BIAS>
+ <RMSE>   6.54239058E-02 </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.62168774E-02 </BIAS>
+ <RMSE>   6.06822819E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   16991.6816     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.18869539E-02 </BIAS>
+ <RMSE>  0.427727103     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.94117685E-02 </MEAN_OBS>
+ <STDV_OBS>   4.42162938E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   3.72673497E-02 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>   5.93441017E-02 </BIAS>
+ <RMSE>  0.342339724     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.02936670E-02 </BIAS>
+ <RMSE>  0.330680162     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   19490.5332     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.59248382E-02 </BIAS>
+ <RMSE>  0.262331545     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.891666651     </MEAN_OBS>
+ <STDV_OBS>   2.60388758E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   3.99780273E-02 </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.344619185     </BIAS>
+ <RMSE>  0.286117375     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.340518773     </BIAS>
+ <RMSE>  0.417247266     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   28787.0918     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.345634937     </BIAS>
+ <RMSE>  0.292594910     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.271999955     </MEAN_OBS>
+ <STDV_OBS>   2.12095287E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.05664076E-02 </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>  0.164874300     </BIAS>
+ <RMSE> -0.111556657     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.163126186     </BIAS>
+ <RMSE>   8.76853690E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   19921.5801     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.160761252     </BIAS>
+ <RMSE>  0.206240490     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.61538462E-03 </MEAN_OBS>
+ <STDV_OBS>   1.39144091E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>   3.73582332E-03 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   2.37897728E-02 </BIAS>
+ <RMSE>  -5.71226366E-02 </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.34940965E-02 </BIAS>
+ <RMSE>  -5.42407744E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          65 </NUM>
+ <MEAN>   25697.0195     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.57944446E-02 </BIAS>
+ <RMSE>  -5.95186464E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.94720796E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   8.35344254E-04 </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>   1.16056832E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26849266E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   22002.9141     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.93763920E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.51162863E-02 </MEAN_OBS>
+ <STDV_OBS>  0.103737488     </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>  0.114793807     </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>  0.103958584     </BIAS>
+ <RMSE>  0.485027969     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.76650119E-02 </BIAS>
+ <RMSE>  0.572662711     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   14726.2256     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.57330316E-02 </BIAS>
+ <RMSE>  0.636347592     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.87500026E-02 </MEAN_OBS>
+ <STDV_OBS>   4.29656619E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          80 </NUM>
+ <MEAN>   1.14441282E-04 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>   7.29153156E-02 </BIAS>
+ <RMSE>  -6.11533560E-02 </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          80 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.26412907E-02 </BIAS>
+ <RMSE>  -6.49865866E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          80 </NUM>
+ <MEAN>   24847.6523     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.26198256E-02 </BIAS>
+ <RMSE>  -3.07807670E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09756095E-02 </MEAN_OBS>
+ <STDV_OBS>   4.88994569E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   2.32923571E-02 </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>   7.60731101E-02 </BIAS>
+ <RMSE>  0.230159193     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.48011868E-02 </BIAS>
+ <RMSE>  0.491159081     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   16820.4609     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.52131033E-02 </BIAS>
+ <RMSE>  0.504367650     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.81578915E-02 </MEAN_OBS>
+ <STDV_OBS>  0.191359460     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          76 </NUM>
+ <MEAN>  0.139663756     </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>  0.118084572     </BIAS>
+ <RMSE>  0.412968755     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          76 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.154935613     </BIAS>
+ <RMSE>  0.367923737     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          76 </NUM>
+ <MEAN>   9681.66504     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.154765889     </BIAS>
+ <RMSE>  0.626810431     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.15686280E-02 </MEAN_OBS>
+ <STDV_OBS>   9.29876640E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.115906328     </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   9.56170484E-02 </BIAS>
+ <RMSE> -0.112952158     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.102304034     </BIAS>
+ <RMSE>  -5.75872771E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   14393.4941     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.104321368     </BIAS>
+ <RMSE>  -8.26856494E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   7.20699737E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          83 </NUM>
+ <MEAN>   2.08254741E-03 </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>   3.43348668E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          83 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.27954181E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          83 </NUM>
+ <MEAN>   22474.2969     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.16345012E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.22368778E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   1.66015644E-02 </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>   2.35520452E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.11469266E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   17946.3809     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.18845510E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.168604657     </MEAN_OBS>
+ <STDV_OBS>  0.274356931     </STDV_OBS>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>  0.108502522     </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>  0.660643339     </BIAS>
+ <RMSE>  -6.69606924E-02 </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.683836937     </BIAS>
+ <RMSE>  -6.34244457E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   19300.1523     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.523787498     </BIAS>
+ <RMSE>  -9.15853400E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.45097995E-02 </MEAN_OBS>
+ <STDV_OBS>   8.06623697E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   4.47755866E-02 </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>  0.118079141     </BIAS>
+ <RMSE>  0.528694093     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.119098954     </BIAS>
+ <RMSE>  0.517865300     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   15625.0430     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.131025791     </BIAS>
+ <RMSE>  0.386242956     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.35090086E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   2.08910536E-02 </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>   3.63143831E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.11627910E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   18692.9219     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.33136171E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.306060582     </MEAN_OBS>
+ <STDV_OBS>  0.223935425     </STDV_OBS>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          99 </NUM>
+ <MEAN>  0.231710583     </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>  0.644871950     </BIAS>
+ <RMSE>  0.442209870     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          99 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.646243751     </BIAS>
+ <RMSE>  0.451433420     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          99 </NUM>
+ <MEAN>   20439.1484     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.589304566     </BIAS>
+ <RMSE>  0.640605152     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.101162791     </MEAN_OBS>
+ <STDV_OBS>  0.331133872     </STDV_OBS>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>  0.178533405     </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>  0.346220076     </BIAS>
+ <RMSE>  0.581497788     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.222993508     </BIAS>
+ <RMSE>  0.566298366     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   25879.6289     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.282767624     </BIAS>
+ <RMSE>  0.515044928     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.820833206     </MEAN_OBS>
+ <STDV_OBS>   1.27947819     </STDV_OBS>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>  0.587764621     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>   1.40725183     </BIAS>
+ <RMSE>  0.532399833     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56674278     </BIAS>
+ <RMSE>  0.324765950     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          72 </NUM>
+ <MEAN>   22051.6270     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.79356849     </BIAS>
+ <RMSE>  0.259156615     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108823545     </MEAN_OBS>
+ <STDV_OBS>  0.892965019     </STDV_OBS>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.562183559     </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>  0.830803275     </BIAS>
+ <RMSE>   7.14019686E-02 </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.936649323     </BIAS>
+ <RMSE>  0.148055688     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   19444.5977     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.826053917     </BIAS>
+ <RMSE>  0.400765866     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.570588231     </MEAN_OBS>
+ <STDV_OBS>  0.647962511     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          34 </NUM>
+ <MEAN>  0.566688120     </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>  0.645436287     </BIAS>
+ <RMSE>  0.456105858     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          34 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.770533919     </BIAS>
+ <RMSE>  0.411386430     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          34 </NUM>
+ <MEAN>   3.49955916     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.638818443     </BIAS>
+ <RMSE>  0.451766670     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.110000014     </MEAN_OBS>
+ <STDV_OBS>  0.425604671     </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>  0.355471253     </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>  0.470113426     </BIAS>
+ <RMSE>  -3.24585289E-02 </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.344193697     </BIAS>
+ <RMSE>   6.61885515E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   27982.4863     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.405448049     </BIAS>
+ <RMSE>   6.25757948E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.906451464     </MEAN_OBS>
+ <STDV_OBS>  0.641468585     </STDV_OBS>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>  0.307936281     </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>   1.29093528     </BIAS>
+ <RMSE>  0.487072557     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22118735     </BIAS>
+ <RMSE>  0.562751770     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   18234.1094     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10486901     </BIAS>
+ <RMSE>  0.639279127     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.35294074E-02 </MEAN_OBS>
+ <STDV_OBS>  0.262645364     </STDV_OBS>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.100868002     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.282935709     </BIAS>
+ <RMSE>  0.358681142     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.288517773     </BIAS>
+ <RMSE>  0.400781274     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20789.7695     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.274440378     </BIAS>
+ <RMSE>  0.419738114     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.215584427     </MEAN_OBS>
+ <STDV_OBS>  0.367207348     </STDV_OBS>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>  0.371614516     </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>  0.549201906     </BIAS>
+ <RMSE> -0.195875466     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.573616922     </BIAS>
+ <RMSE> -0.231520593     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   17173.0195     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.564380467     </BIAS>
+ <RMSE> -0.204097018     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.10000014     </MEAN_OBS>
+ <STDV_OBS>   1.25986135     </STDV_OBS>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   1.04463339     </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>  0.654537499     </BIAS>
+ <RMSE>  -1.11899141E-03 </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59733558     </BIAS>
+ <RMSE>  -3.05684836E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   21039.1895     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.02867246     </BIAS>
+ <RMSE>  -7.12006819E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.96078443E-03 </MEAN_OBS>
+ <STDV_OBS>   1.83058046E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   5.95840812E-03 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   1.38880722E-02 </BIAS>
+ <RMSE>  0.714591026     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07937874E-02 </BIAS>
+ <RMSE>  0.756292045     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   24097.9629     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20690614E-02 </BIAS>
+ <RMSE>  0.749106944     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.500000000     </MEAN_OBS>
+ <STDV_OBS>  0.207965150     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>  0.287150085     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.231021166     </BIAS>
+ <RMSE> -0.454257786     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.221330047     </BIAS>
+ <RMSE> -0.544961572     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   19941.9219     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.286257893     </BIAS>
+ <RMSE> -0.395939082     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.12500037E-02 </MEAN_OBS>
+ <STDV_OBS>   6.90401345E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          80 </NUM>
+ <MEAN>   1.99066158E-02 </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>   4.73572798E-02 </BIAS>
+ <RMSE>  0.848430932     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          80 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.16830331E-02 </BIAS>
+ <RMSE>  0.892493546     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          80 </NUM>
+ <MEAN>   20867.4102     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.74178551E-02 </BIAS>
+ <RMSE>  0.907044649     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.27450794E-02 </MEAN_OBS>
+ <STDV_OBS>   5.84264398E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   3.61367017E-02 </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>   7.96535090E-02 </BIAS>
+ <RMSE>  0.377806246     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.61622170E-02 </BIAS>
+ <RMSE>  0.213910267     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   91.5983963     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.90531784E-02 </BIAS>
+ <RMSE>  0.383842945     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.05063219E-02 </MEAN_OBS>
+ <STDV_OBS>   3.10687814E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>   2.82175578E-02 </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>  0.103408337     </BIAS>
+ <RMSE>  -8.21696222E-02 </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.104373403     </BIAS>
+ <RMSE>  -7.07672760E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>   27635.7617     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.108200967     </BIAS>
+ <RMSE> -0.121375859     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.575438559     </MEAN_OBS>
+ <STDV_OBS>   3.89230251E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   3.82658318E-02 </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.378692359     </BIAS>
+ <RMSE>  0.466477394     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.373293042     </BIAS>
+ <RMSE>  0.533239365     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          57 </NUM>
+ <MEAN>   20667.1992     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.375946283     </BIAS>
+ <RMSE>  0.427228898     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.25490201E-02 </MEAN_OBS>
+ <STDV_OBS>   9.77730379E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   4.45287488E-03 </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>   8.14534053E-02 </BIAS>
+ <RMSE>   5.70028350E-02 </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.16288516E-02 </BIAS>
+ <RMSE>  -2.19134223E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   21143.0840     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.30393359E-02 </BIAS>
+ <RMSE>  -9.60966274E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.45176274E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          95 </NUM>
+ <MEAN>   2.16960683E-02 </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>   1.78297069E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          95 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06953473E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          95 </NUM>
+ <MEAN>   23544.2852     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.43882444E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.17647061E-02 </MEAN_OBS>
+ <STDV_OBS>   3.01948488E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   3.06571517E-02 </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>   4.74892333E-02 </BIAS>
+ <RMSE> -0.197455317     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.92863709E-02 </BIAS>
+ <RMSE> -0.107966349     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          68 </NUM>
+ <MEAN>   22441.4746     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.03061004E-02 </BIAS>
+ <RMSE> -0.137210712     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.52941230E-02 </MEAN_OBS>
+ <STDV_OBS>   4.27866913E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   2.65107974E-02 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>  0.103641994     </BIAS>
+ <RMSE>   6.14607148E-02 </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.102634065     </BIAS>
+ <RMSE>  0.123083435     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   21195.1504     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.109641172     </BIAS>
+ <RMSE>   3.55639607E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.84615408E-03 </MEAN_OBS>
+ <STDV_OBS>   1.57228503E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          78 </NUM>
+ <MEAN>   7.60278944E-03 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   2.99866740E-02 </BIAS>
+ <RMSE>   9.05440971E-02 </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          78 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.18889229E-02 </BIAS>
+ <RMSE>   9.84627604E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          78 </NUM>
+ <MEAN>   26203.7383     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.94775630E-02 </BIAS>
+ <RMSE>  0.390265733     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.80392215E-04 </MEAN_OBS>
+ <STDV_OBS>   1.14583028E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   5.63438283E-03 </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>   1.28910663E-02 </BIAS>
+ <RMSE>  -5.71120344E-03 </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59921031E-02 </BIAS>
+ <RMSE>  -6.57547312E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   19166.9121     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.50068756E-02 </BIAS>
+ <RMSE>   8.35522171E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.91936389E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   3.69853340E-02 </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>   5.48935495E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.19807202E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   21314.5918     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.88206255E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.299999982     </MEAN_OBS>
+ <STDV_OBS>  0.371814430     </STDV_OBS>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.260306895     </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>  0.213540763     </BIAS>
+ <RMSE>  0.868187547     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.296821326     </BIAS>
+ <RMSE>  0.730060935     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20439.2227     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.253226280     </BIAS>
+ <RMSE>  0.805504441     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.37837860E-02 </MEAN_OBS>
+ <STDV_OBS>   6.26565367E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          74 </NUM>
+ <MEAN>   3.19758318E-02 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   9.19876099E-02 </BIAS>
+ <RMSE>   9.60867554E-02 </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          74 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.131634280     </BIAS>
+ <RMSE>  0.307025552     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          74 </NUM>
+ <MEAN>   28189.3242     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.29828063E-02 </BIAS>
+ <RMSE>   1.90592594E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.597916722     </MEAN_OBS>
+ <STDV_OBS>  0.329086810     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>  0.402131796     </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>  0.522071779     </BIAS>
+ <RMSE>  0.236459211     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.344992399     </BIAS>
+ <RMSE>  0.624935091     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>   21238.0195     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.373329163     </BIAS>
+ <RMSE>  0.519509315     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.183333367     </MEAN_OBS>
+ <STDV_OBS>  0.482081532     </STDV_OBS>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.300944626     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.385504395     </BIAS>
+ <RMSE>  0.587610483     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.307518780     </BIAS>
+ <RMSE>  0.787266910     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   24228.2148     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.368507445     </BIAS>
+ <RMSE>  0.640451193     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.17647080E-02 </MEAN_OBS>
+ <STDV_OBS>  0.348719597     </STDV_OBS>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.161849141     </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>  0.321732044     </BIAS>
+ <RMSE>  0.297598541     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.304710507     </BIAS>
+ <RMSE>  0.323900908     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.260347456     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.336260766     </BIAS>
+ <RMSE>  0.351749599     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.546078444     </MEAN_OBS>
+ <STDV_OBS>  0.747778416     </STDV_OBS>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.477237970     </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>  0.809147000     </BIAS>
+ <RMSE>  0.440073967     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.998149991     </BIAS>
+ <RMSE>  0.326837420     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   8999.92676     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.773276091     </BIAS>
+ <RMSE>  0.444754183     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.98924810E-02 </MEAN_OBS>
+ <STDV_OBS>  0.443765432     </STDV_OBS>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>  0.146215156     </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>  0.256009817     </BIAS>
+ <RMSE>  0.862838209     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.400869787     </BIAS>
+ <RMSE>  0.780224025     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   15294.6045     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.278838545     </BIAS>
+ <RMSE>  0.859615028     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.207843155     </MEAN_OBS>
+ <STDV_OBS>  0.895961344     </STDV_OBS>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.582214534     </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>  0.426614702     </BIAS>
+ <RMSE>  0.198830098     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.609733105     </BIAS>
+ <RMSE>  -2.65337080E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   19056.3613     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.911509633     </BIAS>
+ <RMSE>  0.109886132     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.287684679     </STDV_OBS>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.130890831     </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>  0.262750566     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.288937271     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   18653.4551     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.286271006     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.297598839     </STDV_OBS>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.176256523     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.317000300     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.308114231     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   19072.1855     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.296136439     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.58821499E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          73 </NUM>
+ <MEAN>   7.19035597E-05 </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>   3.15409852E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          73 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59161980E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          73 </NUM>
+ <MEAN>   16204.3428     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.57042615E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.26429917E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   4.10425849E-03 </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>   2.44547464E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.05553515E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   13761.0986     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25692710E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.82353075E-03 </MEAN_OBS>
+ <STDV_OBS>  0.160542786     </STDV_OBS>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   7.25407973E-02 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.187177911     </BIAS>
+ <RMSE>  0.475404054     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.150873721     </BIAS>
+ <RMSE>  0.517734706     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   19846.1699     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.146673411     </BIAS>
+ <RMSE>  0.531062841     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.03896111E-02 </MEAN_OBS>
+ <STDV_OBS>   9.43742767E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   3.51621993E-02 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   7.90265575E-02 </BIAS>
+ <RMSE>  0.205430120     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.129478857     </BIAS>
+ <RMSE>  0.251177102     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   14237.4717     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.18202773E-02 </BIAS>
+ <RMSE>  0.225613505     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.22891558E-03 </MEAN_OBS>
+ <STDV_OBS>   8.50015581E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          83 </NUM>
+ <MEAN>   2.90521588E-02 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   6.36190772E-02 </BIAS>
+ <RMSE>  -4.33733650E-02 </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          83 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.74205199E-02 </BIAS>
+ <RMSE>  -7.77047575E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          83 </NUM>
+ <MEAN>   17781.3750     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.03525278E-02 </BIAS>
+ <RMSE>  -8.10646862E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.05992332E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   2.43452541E-03 </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>   2.92182155E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.57917219E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   16454.6465     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05471481E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.28910774E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.62002167E-03 </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>  0.136487350     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13671683E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   16864.1113     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28192604E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.137209311     </MEAN_OBS>
+ <STDV_OBS>  0.652188838     </STDV_OBS>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>  0.265837610     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.435621738     </BIAS>
+ <RMSE>  0.748834908     </RMSE>
+ <CORR>   5.49903893E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.465630561     </BIAS>
+ <RMSE>  0.707796931     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   17906.3848     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.383694708     </BIAS>
+ <RMSE>  0.815400183     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.35144359E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   2.86326651E-02 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   5.41792922E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.52488118E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.667712629     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.32514639E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   7.64044821E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   3.25232185E-02 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   7.23253787E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.85579532E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   14933.1807     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.59589672E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.362745196     </MEAN_OBS>
+ <STDV_OBS>  0.562743723     </STDV_OBS>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.500501037     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.904707730     </BIAS>
+ <RMSE>  0.553262234     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.402795315     </BIAS>
+ <RMSE>  0.653011799     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   19506.4277     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.388650626     </BIAS>
+ <RMSE>  0.720949471     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.39215766E-02 </MEAN_OBS>
+ <STDV_OBS>  0.568180144     </STDV_OBS>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.190052763     </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>  0.326697469     </BIAS>
+ <RMSE>  0.882200778     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.370054007     </BIAS>
+ <RMSE>  0.933306098     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.165011421     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.390440822     </BIAS>
+ <RMSE>  0.929688871     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.09999949E-02 </MEAN_OBS>
+ <STDV_OBS>  0.687143505     </STDV_OBS>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         100 </NUM>
+ <MEAN>  0.122335844     </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>  0.459504455     </BIAS>
+ <RMSE>  0.857035398     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         100 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.402391136     </BIAS>
+ <RMSE>  0.861143410     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         100 </NUM>
+ <MEAN>   17525.1035     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.467259586     </BIAS>
+ <RMSE>  0.851337671     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.552941084     </MEAN_OBS>
+ <STDV_OBS>  0.624292612     </STDV_OBS>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.490205884     </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>  0.640418112     </BIAS>
+ <RMSE>  0.672321796     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.598162293     </BIAS>
+ <RMSE>  0.736360967     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   18988.1973     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.470986634     </BIAS>
+ <RMSE>  0.846661568     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.365686327     </MEAN_OBS>
+ <STDV_OBS>  0.412981778     </STDV_OBS>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.262283832     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.500386357     </BIAS>
+ <RMSE>  0.739871323     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.491053671     </BIAS>
+ <RMSE>  0.716196120     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   15814.4316     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.466025680     </BIAS>
+ <RMSE>  0.764824271     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.02857161     </MEAN_OBS>
+ <STDV_OBS>  0.678578794     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   1.00440633     </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>   1.12546563     </BIAS>
+ <RMSE>  0.112789117     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07565689     </BIAS>
+ <RMSE>  0.277808040     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   11381.4717     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09325218     </BIAS>
+ <RMSE>  0.250720620     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.887499988     </MEAN_OBS>
+ <STDV_OBS>  0.610933125     </STDV_OBS>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   1.03207242     </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>  0.545006871     </BIAS>
+ <RMSE> -0.147899970     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.586849034     </BIAS>
+ <RMSE>   3.29550616E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   23085.4805     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.595374286     </BIAS>
+ <RMSE>   1.59157347E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.310526401     </MEAN_OBS>
+ <STDV_OBS>  0.285035729     </STDV_OBS>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          95 </NUM>
+ <MEAN>  0.245541841     </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>  0.416407555     </BIAS>
+ <RMSE>  0.497589946     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          95 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.434984386     </BIAS>
+ <RMSE>  0.430957586     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          95 </NUM>
+ <MEAN>   19799.0000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.447733730     </BIAS>
+ <RMSE>  0.400644302     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.41975254E-02 </MEAN_OBS>
+ <STDV_OBS>  0.525000095     </STDV_OBS>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>  0.251957566     </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>  0.402227014     </BIAS>
+ <RMSE>  0.750558376     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.384236276     </BIAS>
+ <RMSE>  0.732496679     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   16781.2637     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.431187510     </BIAS>
+ <RMSE>  0.728012979     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.07526891E-02 </MEAN_OBS>
+ <STDV_OBS>  0.274711221     </STDV_OBS>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   6.57360554E-02 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.200040251     </BIAS>
+ <RMSE>  0.708303690     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.234793678     </BIAS>
+ <RMSE>  0.691390038     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   16566.4863     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.247682810     </BIAS>
+ <RMSE>  0.681222916     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.81249925E-02 </MEAN_OBS>
+ <STDV_OBS>  0.252293229     </STDV_OBS>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>  0.101387009     </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>  0.115439214     </BIAS>
+ <RMSE>  0.887544990     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.116097346     </BIAS>
+ <RMSE>  0.900842845     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>   20177.5723     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.113587439     </BIAS>
+ <RMSE>  0.894977033     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.159302294     </MEAN_OBS>
+ <STDV_OBS>  0.365344077     </STDV_OBS>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>  0.250832021     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.449321508     </BIAS>
+ <RMSE>  0.251136303     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.472026438     </BIAS>
+ <RMSE>  0.181660101     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   23253.5625     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.474343270     </BIAS>
+ <RMSE>  0.205247641     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.47058859E-02 </MEAN_OBS>
+ <STDV_OBS>  0.157899901     </STDV_OBS>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   4.86996695E-02 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>  0.181789294     </BIAS>
+ <RMSE>  0.701831400     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122048229     </BIAS>
+ <RMSE>  0.934937119     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   25473.8203     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.124815091     </BIAS>
+ <RMSE>  0.925156593     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.67469832E-02 </MEAN_OBS>
+ <STDV_OBS>  0.367414147     </STDV_OBS>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          83 </NUM>
+ <MEAN>  0.214145452     </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>  0.292111248     </BIAS>
+ <RMSE>  0.322030663     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          83 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.327592999     </BIAS>
+ <RMSE>  0.331574738     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          83 </NUM>
+ <MEAN>   20554.4980     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.342027932     </BIAS>
+ <RMSE>  0.351613611     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.123913035     </MEAN_OBS>
+ <STDV_OBS>  0.243687004     </STDV_OBS>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>  0.123334169     </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>  0.807479620     </BIAS>
+ <RMSE>  0.397997230     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.267188579     </BIAS>
+ <RMSE>  0.464833111     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   18952.6699     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.282942742     </BIAS>
+ <RMSE>  0.470801562     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.09375052E-02 </MEAN_OBS>
+ <STDV_OBS>  0.248717561     </STDV_OBS>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          64 </NUM>
+ <MEAN>  0.181782708     </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>  0.355876237     </BIAS>
+ <RMSE>  0.532432795     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          64 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.213360518     </BIAS>
+ <RMSE>  0.345895737     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          64 </NUM>
+ <MEAN>   16519.5508     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.215708151     </BIAS>
+ <RMSE>  0.486788571     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.92156886E-03 </MEAN_OBS>
+ <STDV_OBS>   2.15836708E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   6.85149047E-04 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   2.68053412E-02 </BIAS>
+ <RMSE>  0.328927517     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.66366154E-02 </BIAS>
+ <RMSE>  0.558033824     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   19474.5410     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.66410932E-02 </BIAS>
+ <RMSE>  0.535624266     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.79074882E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   2.74008997E-02 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   6.25403598E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.30685464E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   18337.6309     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.76229282E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.50537658E-02 </MEAN_OBS>
+ <STDV_OBS>   3.57376114E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   3.05090435E-02 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   5.01088426E-02 </BIAS>
+ <RMSE>   2.98213251E-02 </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.08432910E-02 </BIAS>
+ <RMSE>   2.52863839E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   20766.7930     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.08221330E-02 </BIAS>
+ <RMSE>  -9.03062299E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.43137309E-02 </MEAN_OBS>
+ <STDV_OBS>   3.68831865E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   3.42251658E-02 </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>   9.75536630E-02 </BIAS>
+ <RMSE>  -9.22797769E-02 </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.72537547E-02 </BIAS>
+ <RMSE>  -6.35954216E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   22064.4590     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.89872143E-02 </BIAS>
+ <RMSE> -0.109495990     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.74509806E-02 </MEAN_OBS>
+ <STDV_OBS>   7.11716935E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   4.07577232E-02 </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>   9.41757709E-02 </BIAS>
+ <RMSE> -0.260035068     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.80963483E-02 </BIAS>
+ <RMSE> -0.214147344     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   24423.8398     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.102530681     </BIAS>
+ <RMSE> -0.200497746     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.43546313E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   5.47162257E-03 </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>   1.21183414E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.52316242E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   4.00703669     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42840920E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.32558139E-03 </MEAN_OBS>
+ <STDV_OBS>   2.44500823E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   1.13213109E-02 </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>   2.73428317E-02 </BIAS>
+ <RMSE>  0.189106748     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.15586443E-02 </BIAS>
+ <RMSE>  0.363606572     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   16593.8848     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.39287224E-02 </BIAS>
+ <RMSE>  0.334954321     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.82353075E-03 </MEAN_OBS>
+ <STDV_OBS>   2.88425176E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.16325950E-03 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>   2.82596759E-02 </BIAS>
+ <RMSE>  0.302470267     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.83351708E-02 </BIAS>
+ <RMSE>  0.221841529     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   18310.8203     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.74815243E-02 </BIAS>
+ <RMSE>  0.353176892     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.96078443E-03 </MEAN_OBS>
+ <STDV_OBS>   4.02807854E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.89041439E-02 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   3.36546674E-02 </BIAS>
+ <RMSE>  0.270299703     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.84963267E-02 </BIAS>
+ <RMSE>  0.244006976     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   18612.7031     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.97833399E-02 </BIAS>
+ <RMSE>  0.260953456     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.82353075E-03 </MEAN_OBS>
+ <STDV_OBS>   2.32271906E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.18360333E-02 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   3.69128399E-02 </BIAS>
+ <RMSE> -0.121689558     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.40400504E-02 </BIAS>
+ <RMSE>  -9.69976410E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   16536.1934     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.67536955E-02 </BIAS>
+ <RMSE>  -9.24580730E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.52688246E-03 </MEAN_OBS>
+ <STDV_OBS>   2.53254231E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   1.48591138E-02 </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>   3.91836241E-02 </BIAS>
+ <RMSE>  0.186621621     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.31527027E-02 </BIAS>
+ <RMSE>   9.82949063E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   20991.7168     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.45182158E-02 </BIAS>
+ <RMSE>  0.336639017     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.72814345E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   2.75690425E-02 </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>   3.52061279E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.34320064E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   23870.9688     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.69999516E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.23300101E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.19353645E-02 </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>   3.93450912E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.56173965E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20877.7285     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.21711414E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.190378532     </STDV_OBS>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.113107689     </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>  0.175214857     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.200633079     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   21559.7246     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.189442992     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.32558139E-03 </MEAN_OBS>
+ <STDV_OBS>  0.158731699     </STDV_OBS>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   6.49050996E-02 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.141444981     </BIAS>
+ <RMSE>  0.103718162     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122415088     </BIAS>
+ <RMSE>   8.12616497E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   8082.07422     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.158329248     </BIAS>
+ <RMSE>   4.34957221E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.396511555     </MEAN_OBS>
+ <STDV_OBS>  0.540627539     </STDV_OBS>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>  0.435278237     </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>  0.312138915     </BIAS>
+ <RMSE>  0.709229171     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.270612538     </BIAS>
+ <RMSE>  0.762476265     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   5375.53271     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.366009086     </BIAS>
+ <RMSE>  0.732926846     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.107660018     </STDV_OBS>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   4.81623150E-02 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   4.28570509E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.113100201     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   17508.5156     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107079640     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.88235352E-03 </MEAN_OBS>
+ <STDV_OBS>  0.170468017     </STDV_OBS>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   8.50087255E-02 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   7.91218057E-02 </BIAS>
+ <RMSE>  0.339750469     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.140328899     </BIAS>
+ <RMSE>  0.274148613     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   87.6036148     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.162939548     </BIAS>
+ <RMSE>  0.348104775     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.56862773E-02 </MEAN_OBS>
+ <STDV_OBS>  0.115670055     </STDV_OBS>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   6.14953451E-02 </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.100354798     </BIAS>
+ <RMSE>  0.456055135     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.100571185     </BIAS>
+ <RMSE>  0.383816630     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   22389.1914     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107167877     </BIAS>
+ <RMSE>  0.368617237     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.94117525E-02 </MEAN_OBS>
+ <STDV_OBS>  0.157726988     </STDV_OBS>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.101559050     </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>  0.140610874     </BIAS>
+ <RMSE>  0.411452085     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135539263     </BIAS>
+ <RMSE>  0.438801765     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20339.3457     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.144404963     </BIAS>
+ <RMSE>  0.525483549     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.86274562E-03 </MEAN_OBS>
+ <STDV_OBS>   3.36158499E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.71463918E-02 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>   2.58867890E-02 </BIAS>
+ <RMSE>  -7.42113739E-02 </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.55722851E-02 </BIAS>
+ <RMSE> -0.103708208     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   15146.8955     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.44925167E-02 </BIAS>
+ <RMSE> -0.130933300     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.519999981     </MEAN_OBS>
+ <STDV_OBS>  0.486123294     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          15 </NUM>
+ <MEAN>  0.528575420     </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>  0.428070277     </BIAS>
+ <RMSE>  0.517533720     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          15 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.477860421     </BIAS>
+ <RMSE>  0.388174742     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          15 </NUM>
+ <MEAN>   18323.6758     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.569297850     </BIAS>
+ <RMSE>  0.246641949     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.246078447     </MEAN_OBS>
+ <STDV_OBS>  0.655472934     </STDV_OBS>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.484101862     </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>  0.461916625     </BIAS>
+ <RMSE>  0.749587476     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.448901981     </BIAS>
+ <RMSE>  0.663729370     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20197.0391     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.514282763     </BIAS>
+ <RMSE>  0.622283518     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.169135794     </MEAN_OBS>
+ <STDV_OBS>  0.306211412     </STDV_OBS>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>  0.156897560     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.299463332     </BIAS>
+ <RMSE>  0.585080922     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.283109754     </BIAS>
+ <RMSE>  0.491150469     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   24285.1758     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.272231162     </BIAS>
+ <RMSE>  0.564224064     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.211764753     </MEAN_OBS>
+ <STDV_OBS>  0.477442086     </STDV_OBS>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.328982413     </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>  0.423943460     </BIAS>
+ <RMSE>  0.453607500     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.396629035     </BIAS>
+ <RMSE>  0.557051778     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20379.0098     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.411606193     </BIAS>
+ <RMSE>  0.558463991     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.196078435     </MEAN_OBS>
+ <STDV_OBS>  0.213101700     </STDV_OBS>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.115880027     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.204893991     </BIAS>
+ <RMSE>  0.705499709     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.234887481     </BIAS>
+ <RMSE>  0.536231041     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20679.0156     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.238469198     </BIAS>
+ <RMSE>  0.538778126     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.218604669     </MEAN_OBS>
+ <STDV_OBS>  0.547113121     </STDV_OBS>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>  0.372591734     </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>  0.515516758     </BIAS>
+ <RMSE>  0.334547102     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.521446824     </BIAS>
+ <RMSE>  0.365023673     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   20031.0957     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.493986398     </BIAS>
+ <RMSE>  0.438227117     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.58333337     </MEAN_OBS>
+ <STDV_OBS>   1.29219663     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   1.88441241     </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>   2.61976480     </BIAS>
+ <RMSE>  0.350342214     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42238832     </BIAS>
+ <RMSE>  0.298991024     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   5.40209246     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18908846     </BIAS>
+ <RMSE>  0.333085120     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   8.43947083E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   3.01981159E-02 </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>   9.47258174E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.26120877E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   20824.8438     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.39445964E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.101960756     </MEAN_OBS>
+ <STDV_OBS>   6.37933984E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   3.97811607E-02 </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>  0.149483413     </BIAS>
+ <RMSE> -0.112355649     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.151436582     </BIAS>
+ <RMSE>   1.79509819E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>  0.264102966     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.153435558     </BIAS>
+ <RMSE>  -7.47449175E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.43137160E-02 </MEAN_OBS>
+ <STDV_OBS>   2.32990105E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.85116045E-02 </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>   5.62518127E-02 </BIAS>
+ <RMSE> -0.196628779     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.57717271E-02 </BIAS>
+ <RMSE> -0.170509070     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   19631.2852     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.91033995E-02 </BIAS>
+ <RMSE> -0.220319837     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.50000025E-02 </MEAN_OBS>
+ <STDV_OBS>   4.24374081E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          80 </NUM>
+ <MEAN>   2.65789069E-02 </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>   4.64580357E-02 </BIAS>
+ <RMSE>  0.369109452     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          80 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.99368310E-02 </BIAS>
+ <RMSE>  0.293292850     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          80 </NUM>
+ <MEAN>   24019.9414     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.24365662E-02 </BIAS>
+ <RMSE>  0.559935689     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.09876578E-02 </MEAN_OBS>
+ <STDV_OBS>   2.82700770E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   2.78395694E-02 </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>   5.84803410E-02 </BIAS>
+ <RMSE>   4.05125283E-02 </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.84766099E-02 </BIAS>
+ <RMSE>   5.94346672E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   24520.2949     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.34142703E-02 </BIAS>
+ <RMSE>  -6.46477193E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.17647080E-02 </MEAN_OBS>
+ <STDV_OBS>   2.54289620E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.85068157E-02 </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>   4.25880998E-02 </BIAS>
+ <RMSE> -0.114849500     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.88492234E-02 </BIAS>
+ <RMSE> -0.100123748     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   25764.9590     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.28755619E-02 </BIAS>
+ <RMSE>  -9.81019214E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.72340381E-02 </MEAN_OBS>
+ <STDV_OBS>   9.13407281E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   3.73353041E-03 </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>   7.42851347E-02 </BIAS>
+ <RMSE>   4.36984450E-02 </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.50419572E-02 </BIAS>
+ <RMSE>  -5.87205067E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   3.24338269     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.56736696E-02 </BIAS>
+ <RMSE>  -8.54446590E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.84313865E-03 </MEAN_OBS>
+ <STDV_OBS>   3.73446569E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   2.58406084E-02 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>   3.32428776E-02 </BIAS>
+ <RMSE>  0.139155030     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.12297270E-02 </BIAS>
+ <RMSE>  0.256604433     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20787.0527     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.40672024E-02 </BIAS>
+ <RMSE>  0.472024322     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.70212779E-02 </MEAN_OBS>
+ <STDV_OBS>   3.31879295E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   2.82160975E-02 </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>   4.11782712E-02 </BIAS>
+ <RMSE>  -7.10965246E-02 </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.20648977E-02 </BIAS>
+ <RMSE> -0.101304218     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          94 </NUM>
+ <MEAN>   13498.3750     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.95316647E-02 </BIAS>
+ <RMSE>   1.96431074E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.894444346     </MEAN_OBS>
+ <STDV_OBS>   5.25887683E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   6.03383370E-02 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>  0.538126409     </BIAS>
+ <RMSE>  -5.19504584E-02 </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.540291727     </BIAS>
+ <RMSE> -0.158689395     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   21350.3047     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.558274865     </BIAS>
+ <RMSE> -0.399210185     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.01960760E-02 </MEAN_OBS>
+ <STDV_OBS>   4.16302346E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   2.64003966E-02 </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>   7.34803006E-02 </BIAS>
+ <RMSE>  -6.97072297E-02 </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.17788860E-02 </BIAS>
+ <RMSE>   4.20519151E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   27421.8867     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.71675482E-02 </BIAS>
+ <RMSE>   2.30054110E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.35294160E-02 </MEAN_OBS>
+ <STDV_OBS>   3.01183183E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   2.48377137E-02 </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>   6.52678534E-02 </BIAS>
+ <RMSE> -0.176679686     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.64806291E-02 </BIAS>
+ <RMSE> -0.157955155     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   28445.2441     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.30196908E-02 </BIAS>
+ <RMSE> -0.243024245     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.05882311E-02 </MEAN_OBS>
+ <STDV_OBS>   1.49927642E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.29645858E-02 </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>  0.139637113     </BIAS>
+ <RMSE> -0.193209097     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.139426246     </BIAS>
+ <RMSE> -0.231885344     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   23245.7559     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.138371795     </BIAS>
+ <RMSE>  -4.44037020E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.706060708     </MEAN_OBS>
+ <STDV_OBS>   1.77666117E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          33 </NUM>
+ <MEAN>   1.00504616E-02 </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.231068879     </BIAS>
+ <RMSE> -0.107703023     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          33 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.231093124     </BIAS>
+ <RMSE> -0.139149845     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          33 </NUM>
+ <MEAN>   24739.0469     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.234519273     </BIAS>
+ <RMSE> -0.172905117     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.39215617E-02 </MEAN_OBS>
+ <STDV_OBS>   2.61067469E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   1.65782254E-02 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.132697761     </BIAS>
+ <RMSE>  -7.10347295E-02 </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.133540258     </BIAS>
+ <RMSE>  -8.94378200E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   22210.7930     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.137210563     </BIAS>
+ <RMSE> -0.141123191     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.11111114E-03 </MEAN_OBS>
+ <STDV_OBS>   1.19278943E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   6.70030247E-03 </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>   1.14364522E-02 </BIAS>
+ <RMSE>  -3.34832668E-02 </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18767526E-02 </BIAS>
+ <RMSE>  -3.86897884E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   20847.2656     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.62762795E-02 </BIAS>
+ <RMSE>  -5.76949567E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.88235352E-03 </MEAN_OBS>
+ <STDV_OBS>   3.83865833E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   3.15396190E-02 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   2.69000158E-02 </BIAS>
+ <RMSE>  0.353832304     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.97784675E-02 </BIAS>
+ <RMSE>  0.355827630     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   22620.6660     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.76751274E-02 </BIAS>
+ <RMSE>  0.330060869     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.85714325E-02 </MEAN_OBS>
+ <STDV_OBS>   1.32646346E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   1.05975941E-02 </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>   5.85007183E-02 </BIAS>
+ <RMSE>  0.353335828     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.91334403E-02 </BIAS>
+ <RMSE>  0.286425412     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   24950.2305     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.23739921E-02 </BIAS>
+ <RMSE>  -5.71498228E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.56862773E-02 </MEAN_OBS>
+ <STDV_OBS>   7.90911540E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   3.39283678E-03 </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>   3.70639116E-02 </BIAS>
+ <RMSE> -0.156721503     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.70514952E-02 </BIAS>
+ <RMSE> -0.155334562     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   20519.6816     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.83734442E-02 </BIAS>
+ <RMSE> -0.153749287     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.81658473E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   5.05016698E-03 </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>   4.32275888E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.39384161E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          93 </NUM>
+ <MEAN>   14872.2607     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.80679187E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.08641978E-02 </MEAN_OBS>
+ <STDV_OBS>   2.47525666E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   1.22688217E-02 </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>   6.06180541E-02 </BIAS>
+ <RMSE>  -2.69523785E-02 </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.28491417E-02 </BIAS>
+ <RMSE>  -9.65073183E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   9.88040638     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.76081479E-02 </BIAS>
+ <RMSE> -0.118462399     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.73913054E-02 </MEAN_OBS>
+ <STDV_OBS>   3.52569669E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          69 </NUM>
+ <MEAN>   3.25277597E-02 </MEAN>
+ <STDV>   5.81278469E-25 </STDV>
+ <BIAS>   6.78832084E-02 </BIAS>
+ <RMSE>  0.272034854     </RMSE>
+ <CORR>   2.41805116E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          69 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.06912556E-02 </BIAS>
+ <RMSE>   7.29739666E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          69 </NUM>
+ <MEAN>   21951.5371     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.71151653E-02 </BIAS>
+ <RMSE>  0.333268255     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.80392215E-04 </MEAN_OBS>
+ <STDV_OBS>   5.17047718E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   3.77559289E-02 </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>   3.57971340E-02 </BIAS>
+ <RMSE>   8.44601542E-02 </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.52256186E-02 </BIAS>
+ <RMSE>  0.231519312     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   25289.9336     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.03951982E-02 </BIAS>
+ <RMSE>  0.201777950     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.27450991E-02 </MEAN_OBS>
+ <STDV_OBS>   1.21879773E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   4.29160986E-03 </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>   4.82477546E-02 </BIAS>
+ <RMSE>  -4.16857041E-02 </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.84620482E-02 </BIAS>
+ <RMSE>  -7.32971951E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>lowp</NAME>
+ <NUM>         102 </NUM>
+ <MEAN>   18595.4941     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.99619842E-02 </BIAS>
+ <RMSE>  -5.21949232E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.90476216E-02 </MEAN_OBS>
+ <STDV_OBS>   1.57864299E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   8.84210318E-03 </MEAN>
+ <STDV>   2.41807640E-24 </STDV>
+ <BIAS>   5.86340316E-02 </BIAS>
+ <RMSE>  -8.68387073E-02 </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.73958047E-02 </BIAS>
+ <RMSE>  -2.47636531E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   18422.2969     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.82060292E-02 </BIAS>
+ <RMSE> -0.100071877     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.09090973E-03 </MEAN_OBS>
+ <STDV_OBS>   4.83912155E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   2.66874265E-02 </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>   5.50086237E-02 </BIAS>
+ <RMSE>  0.260893077     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.70334324E-02 </BIAS>
+ <RMSE>  0.172322482     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   25036.7461     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.07897006E-02 </BIAS>
+ <RMSE>  0.254926980     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26315802E-02 </MEAN_OBS>
+ <STDV_OBS>   4.89624552E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          95 </NUM>
+ <MEAN>   4.20056842E-02 </MEAN>
+ <STDV>   5.45965899E-25 </STDV>
+ <BIAS>   3.89192514E-02 </BIAS>
+ <RMSE>  0.371068090     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          95 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.02189679E-02 </BIAS>
+ <RMSE>  0.301847458     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          95 </NUM>
+ <MEAN>   17788.3867     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.39983341E-02 </BIAS>
+ <RMSE>   2.82929139E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.39534893E-02 </MEAN_OBS>
+ <STDV_OBS>   2.33692061E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   1.92377809E-02 </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>   4.70863320E-02 </BIAS>
+ <RMSE>  0.382028759     </RMSE>
+ <CORR>   5.45964322E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.92698327E-02 </BIAS>
+ <RMSE>  0.271707684     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          86 </NUM>
+ <MEAN>   26323.5176     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.83567826E-02 </BIAS>
+ <RMSE>  0.336809099     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.46913591E-03 </MEAN_OBS>
+ <STDV_OBS>   2.68727560E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   1.42046129E-02 </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>   3.10345273E-02 </BIAS>
+ <RMSE>   8.41883346E-02 </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.18616964E-02 </BIAS>
+ <RMSE>  0.156228632     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   28247.2949     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.85125617E-02 </BIAS>
+ <RMSE>  0.328920096     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.379758209     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>  0.750117779     </MEAN>
+ <STDV>   2.41805747E-24 </STDV>
+ <BIAS>  0.341495484     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.280733705     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   23849.4746     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.310071379     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   17928.9004     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.140000001     </MEAN_OBS>
+ <STDV_OBS>  0.427469879     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>  0.272957653     </MEAN>
+ <STDV>   2.41805116E-24 </STDV>
+ <BIAS>  0.468995750     </BIAS>
+ <RMSE> -0.970124424     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.470736861     </BIAS>
+ <RMSE> -0.969146729     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   1.70831585     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.460465103     </BIAS>
+ <RMSE> -0.971706986     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.03052329E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   1.74967349E-02 </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>   4.52299938E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.41804485E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66879091E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   12068.9736     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.47441176E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.824999928     </MEAN_OBS>
+ <STDV_OBS>   1.36082339     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.950834692     </MEAN>
+ <STDV>   2.41804485E-24 </STDV>
+ <BIAS>   1.66714907     </BIAS>
+ <RMSE>  0.111124851     </RMSE>
+ <CORR>   5.45967477E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.75845408     </BIAS>
+ <RMSE> -0.111334413     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.358813971     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.85888660     </BIAS>
+ <RMSE>  -7.82405362E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.00000057E-02 </MEAN_OBS>
+ <STDV_OBS>  0.117523469     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>  0.109643579     </MEAN>
+ <STDV>   5.45967477E-25 </STDV>
+ <BIAS>  0.166512728     </BIAS>
+ <RMSE>  0.445189774     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.144344240     </BIAS>
+ <RMSE>  0.455599219     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   21682.7500     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.09047350E-02 </BIAS>
+ <RMSE>  0.521535039     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100000009     </MEAN_OBS>
+ <STDV_OBS>   1.82605758E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   1.79850422E-02 </MEAN>
+ <STDV>   2.41803222E-24 </STDV>
+ <BIAS>   1.24172801E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   5.45965899E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.99777186E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>lowp</NAME>
+ <NUM>           3 </NUM>
+ <MEAN>  0.239221171     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.49097033E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.286111116     </MEAN_OBS>
+ <STDV_OBS>  0.424025506     </STDV_OBS>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.304444462     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.537172675     </BIAS>
+ <RMSE>  0.459438980     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.565043867     </BIAS>
+ <RMSE>  0.361692488     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26045 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   20193.3340     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.538933694     </BIAS>
+ <RMSE>  0.407666683     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.919444382     </MEAN_OBS>
+ <STDV_OBS>  0.955652595     </STDV_OBS>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.697069466     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>   1.11238885     </BIAS>
+ <RMSE>  0.468777210     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00844073     </BIAS>
+ <RMSE>  0.588157654     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   21697.1953     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10723233     </BIAS>
+ <RMSE>  0.516944766     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.197222218     </MEAN_OBS>
+ <STDV_OBS>  0.605233788     </STDV_OBS>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.388833314     </MEAN>
+ <STDV>   5.81635823E-25 </STDV>
+ <BIAS>  0.322427034     </BIAS>
+ <RMSE>  0.875260830     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.354468465     </BIAS>
+ <RMSE>  0.889577508     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26135 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   17102.6367     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.339186698     </BIAS>
+ <RMSE>  0.895333648     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.163888901     </MEAN_OBS>
+ <STDV_OBS>  0.400401145     </STDV_OBS>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.232491657     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.271704584     </BIAS>
+ <RMSE>  0.776811063     </RMSE>
+ <CORR>   5.49905471E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.219630703     </BIAS>
+ <RMSE>  0.824914038     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26247 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   18862.6387     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.224767029     </BIAS>
+ <RMSE>  0.824442267     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.405555576     </MEAN_OBS>
+ <STDV_OBS>  0.728808999     </STDV_OBS>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.537344396     </MEAN>
+ <STDV>   5.81635823E-25 </STDV>
+ <BIAS>  0.696288526     </BIAS>
+ <RMSE>  0.580613911     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.698180258     </BIAS>
+ <RMSE>  0.563462675     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26029 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   21886.8203     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.541045964     </BIAS>
+ <RMSE>  0.680597961     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.119444452     </MEAN_OBS>
+ <STDV_OBS>  0.424718410     </STDV_OBS>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.268473089     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.382333815     </BIAS>
+ <RMSE>  0.608029485     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.399888843     </BIAS>
+ <RMSE>  0.595881581     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26058 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   19875.3887     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.347005367     </BIAS>
+ <RMSE>  0.563438654     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.288888872     </MEAN_OBS>
+ <STDV_OBS>  0.528434157     </STDV_OBS>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.337280542     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.239355162     </BIAS>
+ <RMSE>  0.880269587     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.351623088     </BIAS>
+ <RMSE>  0.782810628     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26124 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   15804.0410     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.250848472     </BIAS>
+ <RMSE>  0.878029227     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.527777791     </MEAN_OBS>
+ <STDV_OBS>  0.541727424     </STDV_OBS>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.342460781     </MEAN>
+ <STDV>   5.81635823E-25 </STDV>
+ <BIAS>  0.587442756     </BIAS>
+ <RMSE>  0.856243968     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.702780068     </BIAS>
+ <RMSE>  0.835330546     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26128 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   16275.5273     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.683537245     </BIAS>
+ <RMSE>  0.858032167     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.194444433     </MEAN_OBS>
+ <STDV_OBS>  0.533420324     </STDV_OBS>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.351600587     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.379975975     </BIAS>
+ <RMSE>  0.864267647     </RMSE>
+ <CORR>   5.49905471E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.330852330     </BIAS>
+ <RMSE>  0.868700743     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26134 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   23424.8613     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.314415693     </BIAS>
+ <RMSE>  0.868778825     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.124999985     </MEAN_OBS>
+ <STDV_OBS>  0.568224669     </STDV_OBS>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.333141655     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.377989143     </BIAS>
+ <RMSE>  0.880118906     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.389146060     </BIAS>
+ <RMSE>  0.900300920     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26141 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   17227.2695     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.388694495     </BIAS>
+ <RMSE>  0.899886191     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.280555546     </MEAN_OBS>
+ <STDV_OBS>  0.598977029     </STDV_OBS>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.325236112     </MEAN>
+ <STDV>   5.81635823E-25 </STDV>
+ <BIAS>  0.182646200     </BIAS>
+ <RMSE>  0.956492007     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.168143004     </BIAS>
+ <RMSE>  0.965539455     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26144 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   19374.2266     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.146422997     </BIAS>
+ <RMSE>  0.972127557     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.227777779     </MEAN_OBS>
+ <STDV_OBS>  0.432382315     </STDV_OBS>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.304784238     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.440873563     </BIAS>
+ <RMSE>  0.487827510     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.420157880     </BIAS>
+ <RMSE>  0.459853590     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26214 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   20492.9688     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.385595441     </BIAS>
+ <RMSE>  0.454083800     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.72222269E-02 </MEAN_OBS>
+ <STDV_OBS>  0.490553498     </STDV_OBS>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.281688899     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.403097272     </BIAS>
+ <RMSE>  0.517608523     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.375186503     </BIAS>
+ <RMSE>  0.555774987     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26218 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   23086.8477     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.439272583     </BIAS>
+ <RMSE>  0.541760862     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.266666681     </MEAN_OBS>
+ <STDV_OBS>  0.632023335     </STDV_OBS>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.394608349     </MEAN>
+ <STDV>   5.81635823E-25 </STDV>
+ <BIAS>  0.260746390     </BIAS>
+ <RMSE>  0.899614990     </RMSE>
+ <CORR>   5.49905471E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.319847107     </BIAS>
+ <RMSE>  0.867627740     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   16175.0166     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.309068173     </BIAS>
+ <RMSE>  0.868961751     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.27777821E-02 </MEAN_OBS>
+ <STDV_OBS>  0.575130284     </STDV_OBS>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.330886364     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.481587172     </BIAS>
+ <RMSE>  0.691755712     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.528812885     </BIAS>
+ <RMSE>  0.656101942     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26227 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   17159.7598     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.501780331     </BIAS>
+ <RMSE>  0.659648299     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.224999979     </MEAN_OBS>
+ <STDV_OBS>  0.632640541     </STDV_OBS>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.483913958     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.513637006     </BIAS>
+ <RMSE>  0.591196537     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.455986947     </BIAS>
+ <RMSE>  0.702469885     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26233 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   21578.4570     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.442653656     </BIAS>
+ <RMSE>  0.711774409     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.130555570     </MEAN_OBS>
+ <STDV_OBS>  0.312174797     </STDV_OBS>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.154361323     </MEAN>
+ <STDV>   5.81635823E-25 </STDV>
+ <BIAS>  0.175030813     </BIAS>
+ <RMSE>  0.809528768     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.162189692     </BIAS>
+ <RMSE>  0.856989741     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26249 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   22197.1973     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.161744088     </BIAS>
+ <RMSE>  0.851936400     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.533333302     </MEAN_OBS>
+ <STDV_OBS>  0.549572110     </STDV_OBS>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.481722265     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.621835887     </BIAS>
+ <RMSE>  0.395327955     </RMSE>
+ <CORR>   2.41805747E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.608688533     </BIAS>
+ <RMSE>  0.367417902     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26038 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   3.19501138     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.557270169     </BIAS>
+ <RMSE>  0.395380408     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.177777767     </MEAN_OBS>
+ <STDV_OBS>  0.661812007     </STDV_OBS>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.374607235     </MEAN>
+ <STDV>   5.81635823E-25 </STDV>
+ <BIAS>  0.553659022     </BIAS>
+ <RMSE>  0.387621105     </RMSE>
+ <CORR>   2.41807640E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.584257007     </BIAS>
+ <RMSE>  0.328346163     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26242 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   16942.0332     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.615457237     </BIAS>
+ <RMSE>  0.354899466     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.119444437     </MEAN_OBS>
+ <STDV_OBS>  0.523489416     </STDV_OBS>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.318499982     </MEAN>
+ <STDV>   5.49903893E-25 </STDV>
+ <BIAS>  0.387665868     </BIAS>
+ <RMSE>  0.637589157     </RMSE>
+ <CORR>   5.81278469E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.425618351     </BIAS>
+ <RMSE>  0.676221132     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   21939.5254     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.377983630     </BIAS>
+ <RMSE>  0.729735315     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.127777770     </MEAN_OBS>
+ <STDV_OBS>  0.638751924     </STDV_OBS>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>lydnF</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>  0.294520438     </MEAN>
+ <STDV>   5.45964322E-25 </STDV>
+ <BIAS>  0.370718986     </BIAS>
+ <RMSE>  0.874946475     </RMSE>
+ <CORR>   2.41803222E-24 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>lydnT</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.441807121     </BIAS>
+ <RMSE>  0.913292646     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26145 </ID>
+ <NAME>lowp</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   20305.3770     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.420332342     </BIAS>
+ <RMSE>  0.901323617     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
